@@ -58,8 +58,4 @@ For full step-by-step tracking, flow breakdowns, and system design insights, see
 
 ---
 
-## 🔧 Setup
 
-1. Create a virtual environment:
-   ```bash
-   python -m venv venv
